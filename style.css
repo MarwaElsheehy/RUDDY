@@ -1,0 +1,20 @@
+header {
+    min-height: 90vh;
+    background: url(../images/bg.jpg) no-repeat center top/cover;
+}
+.block {
+    min-height: 100px;
+}
+section h6 {
+    color: darkorange;
+}
+.test {
+    min-height: 80vh;
+    background: url(../images/process-bg.jpg) no-repeat center/cover;
+}
+iframe {
+    height: 185px;
+}
+footer {
+    height: 200px;
+}
